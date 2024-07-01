@@ -1,16 +1,40 @@
-# weather_app
+# Flutter Weather App
 
-A new Flutter project.
+This is the Flutter application displays that weather information.
 
-## Getting Started
+# About App
 
-This project is a starting point for a Flutter application.
+Welcome to the weather app created using Flutter. I have implemented all the features with a deep understanding, focusing on a clean and readable UI. The code is well-maintained with proper state management and includes comments for clarity. Additionally, I have integrated the OpenWeatherAPI to fetch weather details for any city.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed. If not, you can download it from [here](https://flutter.dev/docs/get-started/install).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+#### Clone the repository:
+
+```sh
+git clone https://github.com/jsrujan/weather_app
+
+```
+
+# Steps To Execute
+
+### Using VS Code:
+    Open VS Code:
+    Navigate to File > Open Folder... and select the cloned repository folder.
+### Using Terminal:
+    Navigate to the cloned repository folder using the terminal.
+# Run App
+
+### Using Terminal:
+    In terminal type "flutter run"
+        
+### Using VS Code:
+    1. Tap on the run button (play icon) and
+
+    2. Choose the option "Run without debugging"
+
+
+
